@@ -1,0 +1,5 @@
+Clase en PHP para obtener el MIMETYPE por la extension del archivo.
+
+class.mime.php hecha por Andros Romo <@AndrosRomo>
+
+class.type.php hecho por Robert Widdick
